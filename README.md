@@ -1,9 +1,7 @@
 SLAPP <img src="./-pictures/slapp-logo.png" height="90" />
-
-https://travis-ci.org/nickmancol/SLAPP3.svg?branch=master
 =====
 
-
+[![Build Status](https://travis-ci.org/nickmancol/SLAPP3.svg?branch=master)](https://travis-ci.org/nickmancol/SLAPP3)
 
 Swarm-Like Agent Protocol in Python (3)
 
