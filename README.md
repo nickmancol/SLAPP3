@@ -1,4 +1,6 @@
 SLAPP <img src="./-pictures/slapp-logo.png" height="90" />
+
+https://travis-ci.org/nickmancol/SLAPP3.svg?branch=master
 =====
 
 
